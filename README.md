@@ -46,5 +46,5 @@ Tujuan jangka panjang saya adalah menempuh pendidikan tinggi di bidang sistem in
 
 ---
 
-📍 Indonesia  
-📫 Kontak: _(tambahkan email profesional jika diperlukan)_
+📍 Bandung, Indonesia  
+📫 Kontak: +62 822-1899-3184
