@@ -1,49 +1,60 @@
-# Halo saya Firli Herdiansyah biasa dipanggil Lieee
-
-Saat ini sedang mempersiapkan studi sarjana sambil membangun fondasi yang kuat di bidang teknologi informasi dan pengembangan sistem yang aman.
+Tentu, berikut terjemahan dan penyesuaian ke **Bahasa Inggris** dengan gaya profesional dan natural (cocok untuk profil GitHub atau portofolio):
 
 ---
 
-## 👋 Tentang Saya
-Saya merupakan lulusan SMK jurusan Rekayasa Perangkat Lunak.  
-Minat utama saya meliputi:
-- Sistem Informasi
-- Pengembangan Perangkat Lunak yang Aman
-- Konsep keamanan digital dan praktik penggunaan teknologi yang bertanggung jawab
-- Pemanfaatan teknologi untuk kepentingan publik dan edukasi
+# Hello, I'm Firli Herdiansyah usually called Lieee
 
-Saya memanfaatkan waktu setelah lulus untuk memperkuat dasar akademik, mengembangkan proyek-proyek kecil, serta mempelajari praktik teknologi yang bertanggung jawab dan etis.
+I am currently preparing for my undergraduate studies while building a strong foundation in information technology and secure system development.
 
 ---
 
-## 🎯 Fokus Saat Ini
-- Persiapan seleksi masuk perguruan tinggi nasional (UTBK/SNBT)
-- Memperkuat kemampuan berpikir logis dan analitis
-- Mengembangkan proyek IT yang bersifat edukatif dan sesuai dengan ketentuan hukum
-- Memahami keamanan data dan keselamatan digital
+## 👋 About Me
+
+I am a vocational high school graduate majoring in **Software Engineering**.
+My main interests include:
+
+* Information Systems
+* Secure Software Development
+* Digital security concepts and responsible use of technology
+* Leveraging technology for public benefit and education
+
+I use my post-graduation time to strengthen my academic foundations, develop small projects, and study responsible and ethical technology practices.
 
 ---
 
-## 📂 Proyek
-Profil GitHub ini berisi:
-- Catatan dan dokumentasi pembelajaran
-- Proyek-proyek kecil bersifat edukatif
-- Contoh penerapan praktik pengembangan perangkat lunak yang aman dan bertanggung jawab
+## 🎯 Current Focus
 
-Setiap proyek dilengkapi dengan dokumentasi yang menjelaskan tujuan serta batasan penggunaannya.
+* Preparing for the national university entrance examination (UTBK/SNBT)
+* Strengthening logical and analytical thinking skills
+* Developing educational IT projects that comply with legal and ethical standards
+* Understanding data security and digital safety
+
+---
+
+## 📂 Projects
+
+This GitHub profile contains:
+
+* Learning notes and documentation
+* Small educational projects
+* Examples of applying secure and responsible software development practices
+
+Each project is accompanied by documentation explaining its purpose and usage limitations.
 
 ---
 
 ## ⚠️ Disclaimer
-Seluruh proyek dalam repositori ini dibuat **hanya untuk tujuan pembelajaran dan edukasi**.  
-Tidak ditujukan untuk penggunaan ilegal, eksploitasi, atau tindakan yang merugikan sistem maupun individu lain.
+
+All projects in this repository are created **for educational and learning purposes only**.
+They are not intended for illegal use, exploitation, or any actions that may harm systems or individuals.
 
 ---
 
-## 📌 Tujuan
-Tujuan jangka panjang saya adalah menempuh pendidikan tinggi di bidang sistem informasi atau informatika serta berkontribusi dalam pengembangan teknologi yang aman, andal, dan bermanfaat bagi masyarakat.
+## 📌 Goals
+
+My long-term goal is to pursue higher education in **Information Systems or Informatics** and contribute to the development of secure, reliable, and socially beneficial technologies.
 
 ---
 
-📍 Bandung, Indonesia  
-📫 Kontak: +62 822-1899-3184
+📍 Bandung, Indonesia
+📫 Contact: +62 822-1899-3184
