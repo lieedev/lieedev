@@ -1,6 +1,5 @@
 # Halo saya Firli Herdiansyah biasa dipanggil Lieee
 
-Lulusan Rekayasa Perangkat Lunak (RPL) dengan minat kuat pada sistem informasi dan keamanan siber.  
 Saat ini sedang mempersiapkan studi sarjana sambil membangun fondasi yang kuat di bidang teknologi informasi dan pengembangan sistem yang aman.
 
 ---
