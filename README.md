@@ -1,7 +1,3 @@
-Tentu, berikut terjemahan dan penyesuaian ke **Bahasa Inggris** dengan gaya profesional dan natural (cocok untuk profil GitHub atau portofolio):
-
----
-
 # Hello, I'm Firli Herdiansyah usually called Lieee
 
 I am currently preparing for my undergraduate studies while building a strong foundation in information technology and secure system development.
