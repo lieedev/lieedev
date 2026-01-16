@@ -19,7 +19,7 @@ Saya memanfaatkan waktu setelah lulus untuk memperkuat dasar akademik, mengemban
 
 ## 🎯 Fokus Saat Ini
 - Persiapan seleksi masuk perguruan tinggi nasional (UTBK/SNBT)
-- Mempelajari dasar-dasar matematika dan penalaran logis
+- Memperkuat kemampuan berpikir logis dan analitis
 - Mengembangkan proyek IT yang bersifat edukatif dan sesuai dengan ketentuan hukum
 - Memahami keamanan data dan keselamatan digital
 
